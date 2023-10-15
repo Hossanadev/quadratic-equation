@@ -1,5 +1,4 @@
-This is a math solution to the popular "Alimighty Formula"; a quadratic formula helps us solve any quadratic equation.
-`ax^2 + bx + c = 0`
+This Rust program accepts command-line arguments and functions as a quadratic equation solver, akin to the 'Almighty Formula.' It can solve any quadratic equation of the form `ax^2 + bx + c = 0`, provided that you correctly pass the expected arguments.
 
 This solution is written in Rust programming by Hossanadev.
 
